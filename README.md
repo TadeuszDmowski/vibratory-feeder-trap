@@ -1,2 +1,10 @@
-# vibratory-feeder-trap
-Projekt akademicki obejmujący zaprojektowanie pułapki w podajniku wibracyjnym do sortowania określonego obiektu. Projekt obejmował analizę mechanizmów podawania, dobór odpowiednich komponentów oraz opracowanie rysunków technicznych.  
+# Vibratory Feeder Trap Design  
+
+## Opis projektu  
+Projekt akademicki mający na celu zaprojektowanie i wdrożenie pułapki w podajniku wibracyjnym, która umożliwia skuteczne sortowanie określonych obiektów na linii produkcyjnej.  
+
+## Zakres projektu  
+- Analiza mechaniki działania podajnika wibracyjnego  
+- Opracowanie koncepcji pułapki i jej optymalizacja  
+- Dobór materiałów i komponentów  
+- Wykonanie dokumentacji technicznej  
